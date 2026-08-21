@@ -9,6 +9,10 @@ wheels/
 # Virtual environments
 .venv
 
+### Database Files ###
+*.sqlite3
+*.db
+
 # ATL Gentleman 
 .atl
 
